@@ -51,3 +51,5 @@ module Anagram
     end
   end
 end
+
+#Fichero options.rb
